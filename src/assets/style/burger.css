@@ -1,0 +1,60 @@
+.burger-ingredients {
+  width: 55vh;
+  margin: 0 auto !important;
+}
+.burger-lettuce {
+  height: 5vh;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#228c1d),
+    to(#91ce50)
+  );
+  background: -webkit-linear-gradient(#228c1d, #91ce50);
+  background: -o-linear-gradient(#228c1d, #91ce50);
+  background: linear-gradient(#228c1d, #91ce50);
+  border-radius: 20px;
+}
+.burger-bacon {
+  height: 2vh;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#bf3813),
+    to(#c45e38)
+  );
+  background: -webkit-linear-gradient(#bf3813, #c45e38);
+  background: -o-linear-gradient(#bf3813, #c45e38);
+  background: linear-gradient(#bf3813, #c45e38);
+}
+
+.burger-cheese {
+  height: 3vh;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#f4d004),
+    to(#d6bb22)
+  );
+  background: -webkit-linear-gradient(#f4d004, #d6bb22);
+  background: -o-linear-gradient(#f4d004, #d6bb22);
+  background: linear-gradient(#f4d004, #d6bb22);
+  border-radius: 20px;
+}
+.burger-meat {
+  height: 5vh;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#7f3608),
+    to(#702e05)
+  );
+  background: -webkit-linear-gradient(#7f3608, #702e05);
+  background: -o-linear-gradient(#7f3608, #702e05);
+  background: linear-gradient(#7f3608, #702e05);
+  border-radius: 15px;
+}

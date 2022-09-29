@@ -1,0 +1,8 @@
+.ingredients-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ingredients-item h4 {
+  width: 6vw;
+}
